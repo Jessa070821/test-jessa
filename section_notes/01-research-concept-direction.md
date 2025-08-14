@@ -6,9 +6,9 @@
 
 ## Key Research Questions
 
-1. 
-2. 
-3. 
+1. how does github really works
+2. how can it help me track my files /projects
+3. how does it work with cursor
 
 ## Methodology
 
